@@ -128,7 +128,7 @@
     --color-foreground: var(--foreground);
     --color-primary: var(--primary);
     --color-border: var(--border);
-    --font-display: "Bodoni Moda", Georgia, serif;
+    --font-display: "Playfair Display", Georgia, serif;
   }
 }
 
